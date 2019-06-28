@@ -1,0 +1,11 @@
+### Module positions - created on 2019/06/15 1:07:01 ###
+### Printed by Pcbnew version kicad (5.1.2)-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                 PosX       PosY       Rot  Side
+C1        10u       C_0805_2012Metric   136.2000   -41.3375   90.0000  top
+C3        0.1u      C_0603_1608Metric   115.6000   -41.2000   90.0000  top
+D1        LED       generic-LED1608     125.5740   -59.2000  180.0000  top
+R2        1k        R_0603_1608Metric   122.2880   -59.2000  180.0000  top
+R8        20k       R_0603_1608Metric   118.8000   -59.1000  180.0000  top
+## End
